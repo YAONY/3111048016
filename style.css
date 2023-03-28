@@ -1,0 +1,43 @@
+@charset "utf-8";
+.container {
+    width: 1000px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.container {
+}
+header h1 {
+    color: #1118A7;
+    text-align: center;
+}
+header nav {
+    color: #EA5076;
+    text-align: center;
+}
+nav a:link  {
+    color: #DF2529;
+    text-decoration: none;
+}
+nav a:hover {
+    color: #83DF75;
+    font-style: italic;
+    font-weight: lighter;
+    font-variant: small-caps;
+}
+.heroimg {
+    height: 250px;
+    background-image: url(../b8170b07-d6db-4b47-9659-4a8ba9a80b97.jpg);
+    border-radius: 30px;
+    border-width: medium;
+    background-position: -120px 488px;
+    background-size: auto auto;
+}
+article h3 {
+    text-align: center;
+    color: #2C15F3;
+    background-color: #A9E7F4;
+    border-radius: 40px;
+}
+article p {
+
+}
